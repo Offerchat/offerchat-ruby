@@ -1,0 +1,4 @@
+offerchat
+=========
+
+Offerchat Ruby Gem
