@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Offerchat::VERSION
   spec.authors       = ["Vincent Paca"]
   spec.email         = ["vincent.paca@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
-  spec.homepage      = ""
+  spec.description   = %q{Offerchat live chat ruby gem}
+  spec.summary       = %q{Add the Offerchat live chat widget directly to your Rails application}
+  spec.homepage      = "https://www.offerchat.com"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
